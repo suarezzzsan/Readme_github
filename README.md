@@ -57,4 +57,5 @@ x = 2^4 * y
 §§
 
 
-
+![Foto 1](_.jpeg)
+![Gif.1](cat-cat-dance.gif)
